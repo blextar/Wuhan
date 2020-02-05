@@ -304,12 +304,12 @@
       "Dead": 0,
       "Infected": 2,
       "Location": {
-        "Full address": "1695 S Azusa Ave, Hacienda Heights, CA 91745, USA",
+        "Full address": "8100 Ackroyd Rd #120, Richmond, BC V6X 3K2, Canada",
         "GPS Coordinates": {
-          "lat": 33.9912222,
-          "lng": -117.9328222
+          "lat": 49.171268,
+          "lng": -123.135085
         },
-        "Name": "1695"
+        "Name": "#120"
       },
       "Recovered": 0
     },
@@ -501,12 +501,12 @@
       "Dead": 0,
       "Infected": 9,
       "Location": {
-        "Full address": "1695 S Azusa Ave, Hacienda Heights, CA 91745, USA",
+        "Full address": "8100 Ackroyd Rd #120, Richmond, BC V6X 3K2, Canada",
         "GPS Coordinates": {
-          "lat": 33.9912222,
-          "lng": -117.9328222
+          "lat": 49.171268,
+          "lng": -123.135085
         },
-        "Name": "1695"
+        "Name": "#120"
       },
       "Recovered": 0
     },
@@ -932,12 +932,12 @@
       "Dead": 0,
       "Infected": 16,
       "Location": {
-        "Full address": "1695 S Azusa Ave, Hacienda Heights, CA 91745, USA",
+        "Full address": "8100 Ackroyd Rd #120, Richmond, BC V6X 3K2, Canada",
         "GPS Coordinates": {
-          "lat": 33.9912222,
-          "lng": -117.9328222
+          "lat": 49.171268,
+          "lng": -123.135085
         },
-        "Name": "1695"
+        "Name": "#120"
       },
       "Recovered": 0
     },
@@ -2026,12 +2026,12 @@
       "Dead": 0,
       "Infected": 20,
       "Location": {
-        "Full address": "1695 S Azusa Ave, Hacienda Heights, CA 91745, USA",
+        "Full address": "8100 Ackroyd Rd #120, Richmond, BC V6X 3K2, Canada",
         "GPS Coordinates": {
-          "lat": 33.9912222,
-          "lng": -117.9328222
+          "lat": 49.171268,
+          "lng": -123.135085
         },
-        "Name": "1695"
+        "Name": "#120"
       },
       "Recovered": 0
     },
@@ -7698,12 +7698,12 @@
       "Dead": 0,
       "Infected": 40,
       "Location": {
-        "Full address": "1695 S Azusa Ave, Hacienda Heights, CA 91745, USA",
+        "Full address": "8100 Ackroyd Rd #120, Richmond, BC V6X 3K2, Canada",
         "GPS Coordinates": {
-          "lat": 33.9912222,
-          "lng": -117.9328222
+          "lat": 49.171268,
+          "lng": -123.135085
         },
-        "Name": "1695"
+        "Name": "#120"
       },
       "Recovered": 0
     },
@@ -26179,10 +26179,10 @@
       "Dead": 0,
       "Infected": 1,
       "Location": {
-        "Full address": "Gold Coast QLD, Australia",
+        "Full address": "Gold Coast, Chicago, IL 60610, USA",
         "GPS Coordinates": {
-          "lat": -28.016667,
-          "lng": 153.4
+          "lat": 41.9066994,
+          "lng": -87.6253308
         },
         "Name": "Gold Coast"
       },
@@ -31303,10 +31303,10 @@
       "Dead": 0,
       "Infected": 1,
       "Location": {
-        "Full address": "Gold Coast QLD, Australia",
+        "Full address": "Gold Coast, Chicago, IL 60610, USA",
         "GPS Coordinates": {
-          "lat": -28.016667,
-          "lng": 153.4
+          "lat": 41.9066994,
+          "lng": -87.6253308
         },
         "Name": "Gold Coast"
       },
@@ -42266,10 +42266,10 @@
       "Dead": 0,
       "Infected": 2,
       "Location": {
-        "Full address": "Gold Coast QLD, Australia",
+        "Full address": "Gold Coast, Chicago, IL 60610, USA",
         "GPS Coordinates": {
-          "lat": -28.016667,
-          "lng": 153.4
+          "lat": 41.9066994,
+          "lng": -87.6253308
         },
         "Name": "Gold Coast"
       },
@@ -48079,10 +48079,10 @@
       "Dead": 0,
       "Infected": 2,
       "Location": {
-        "Full address": "Gold Coast QLD, Australia",
+        "Full address": "Gold Coast, Chicago, IL 60610, USA",
         "GPS Coordinates": {
-          "lat": -28.016667,
-          "lng": 153.4
+          "lat": 41.9066994,
+          "lng": -87.6253308
         },
         "Name": "Gold Coast"
       },
@@ -54581,10 +54581,10 @@
       "Dead": 0,
       "Infected": 1,
       "Location": {
-        "Full address": "San Benito, TX 78586, USA",
+        "Full address": "San Benito, CA 95043, USA",
         "GPS Coordinates": {
-          "lat": 26.132576,
-          "lng": -97.6311006
+          "lat": 36.5097219,
+          "lng": -121.080833
         },
         "Name": "San Benito"
       },
@@ -54639,6 +54639,6131 @@
           "lng": 105.6764461
         },
         "Name": "Bình Xuyên District"
+      },
+      "Recovered": 0
+    }
+  ],
+  "200204": [
+    {
+      "Dead": 313,
+      "Infected": 6384,
+      "Location": {
+        "Full address": "Wuhan, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.592849,
+          "lng": 114.305539
+        },
+        "Name": "Wuhan"
+      },
+      "Recovered": 306
+    },
+    {
+      "Dead": 19,
+      "Infected": 1422,
+      "Location": {
+        "Full address": "Huanggang, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.453667,
+          "lng": 114.872199
+        },
+        "Name": "Huanggang"
+      },
+      "Recovered": 41
+    },
+    {
+      "Dead": 17,
+      "Infected": 1120,
+      "Location": {
+        "Full address": "Xiaogan, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.917766,
+          "lng": 113.957037
+        },
+        "Name": "Xiaogan"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 6,
+      "Infected": 641,
+      "Location": {
+        "Full address": "Suizhou, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 31.690215,
+          "lng": 113.382458
+        },
+        "Name": "Suizhou"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 1,
+      "Infected": 632,
+      "Location": {
+        "Full address": "Xiangyang, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 32.009016,
+          "lng": 112.122426
+        },
+        "Name": "Xiangyang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 7,
+      "Infected": 613,
+      "Location": {
+        "Full address": "Jingzhou, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.335237,
+          "lng": 112.239631
+        },
+        "Name": "Jingzhou"
+      },
+      "Recovered": 7
+    },
+    {
+      "Dead": 3,
+      "Infected": 452,
+      "Location": {
+        "Full address": "Yichang, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.691966,
+          "lng": 111.286471
+        },
+        "Name": "Yichang"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 2,
+      "Infected": 405,
+      "Location": {
+        "Full address": "Huangshi, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.20002999999999,
+          "lng": 115.038835
+        },
+        "Name": "Huangshi"
+      },
+      "Recovered": 9
+    },
+    {
+      "Dead": 14,
+      "Infected": 400,
+      "Location": {
+        "Full address": "Jingmen, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 31.035395,
+          "lng": 112.199427
+        },
+        "Name": "Jingmen"
+      },
+      "Recovered": 6
+    },
+    {
+      "Dead": 0,
+      "Infected": 348,
+      "Location": {
+        "Full address": "Xianning, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 29.841438,
+          "lng": 114.322439
+        },
+        "Name": "Xianning"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 18,
+      "Infected": 332,
+      "Location": {
+        "Full address": "Ezhou, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.39194,
+          "lng": 114.894843
+        },
+        "Name": "Ezhou"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 0,
+      "Infected": 291,
+      "Location": {
+        "Full address": "Shiyan, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 32.629398,
+          "lng": 110.798266
+        },
+        "Name": "Shiyan"
+      },
+      "Recovered": 6
+    },
+    {
+      "Dead": 3,
+      "Infected": 188,
+      "Location": {
+        "Full address": "Xiantao, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.360882,
+          "lng": 113.423482
+        },
+        "Name": "Xiantao"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 123,
+      "Location": {
+        "Full address": "China, Hubei Sheng, Enshi Tujiazumiaozuzizhizhou, Enshi Shi, 施州大道119号 邮政编码: 445000",
+        "GPS Coordinates": {
+          "lat": 30.28693599999999,
+          "lng": 109.484668
+        },
+        "Name": "Enshi Shi"
+      },
+      "Recovered": 5
+    },
+    {
+      "Dead": 10,
+      "Infected": 117,
+      "Location": {
+        "Full address": "Tianmen, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.653061,
+          "lng": 113.165862
+        },
+        "Name": "Tianmen"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 1,
+      "Infected": 44,
+      "Location": {
+        "Full address": "Qianjiang, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 30.402167,
+          "lng": 112.899762
+        },
+        "Name": "Qianjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Shennongjia, Hubei, China",
+        "GPS Coordinates": {
+          "lat": 31.743483,
+          "lng": 110.680447
+        },
+        "Name": "Shennongjia"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 340,
+      "Location": {
+        "Full address": "Wenzhou, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 27.993828,
+          "lng": 120.699361
+        },
+        "Name": "Wenzhou"
+      },
+      "Recovered": 28
+    },
+    {
+      "Dead": 0,
+      "Infected": 132,
+      "Location": {
+        "Full address": "Hangzhou, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 30.274084,
+          "lng": 120.15507
+        },
+        "Name": "Hangzhou"
+      },
+      "Recovered": 6
+    },
+    {
+      "Dead": 0,
+      "Infected": 115,
+      "Location": {
+        "Full address": "Taizhou, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 28.65638,
+          "lng": 121.42076
+        },
+        "Name": "Taizhou"
+      },
+      "Recovered": 11
+    },
+    {
+      "Dead": 0,
+      "Infected": 102,
+      "Location": {
+        "Full address": "Ningbo, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 29.868336,
+          "lng": 121.54399
+        },
+        "Name": "Ningbo"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 0,
+      "Infected": 40,
+      "Location": {
+        "Full address": "Jinhua, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 29.079175,
+          "lng": 119.64742
+        },
+        "Name": "Jinhua"
+      },
+      "Recovered": 6
+    },
+    {
+      "Dead": 0,
+      "Infected": 30,
+      "Location": {
+        "Full address": "Shaoxing, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 29.995762,
+          "lng": 120.586109
+        },
+        "Name": "Shaoxing"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 23,
+      "Location": {
+        "Full address": "Jiaxing, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 30.753924,
+          "lng": 120.758543
+        },
+        "Name": "Jiaxing"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 16,
+      "Location": {
+        "Full address": "Lishui, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 28.46763,
+          "lng": 119.922796
+        },
+        "Name": "Lishui"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 15,
+      "Location": {
+        "Full address": "Quzhou, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 28.970079,
+          "lng": 118.859457
+        },
+        "Name": "Quzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Huzhou, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 30.89440999999999,
+          "lng": 120.086809
+        },
+        "Name": "Huzhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Zhoushan, Zhejiang, China",
+        "GPS Coordinates": {
+          "lat": 29.98529499999999,
+          "lng": 122.207215
+        },
+        "Name": "Zhoushan"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 271,
+      "Location": {
+        "Full address": "Shenzhen, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 22.543096,
+          "lng": 114.057865
+        },
+        "Name": "Shenzhen"
+      },
+      "Recovered": 13
+    },
+    {
+      "Dead": 0,
+      "Infected": 224,
+      "Location": {
+        "Full address": "Guangzhou, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.12911,
+          "lng": 113.264385
+        },
+        "Name": "Guangzhou"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 64,
+      "Location": {
+        "Full address": "Zhuhai, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 22.270978,
+          "lng": 113.576677
+        },
+        "Name": "Zhuhai"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 49,
+      "Location": {
+        "Full address": "Foshan, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.021478,
+          "lng": 113.121435
+        },
+        "Name": "Foshan"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 37,
+      "Location": {
+        "Full address": "Dongguan, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.020673,
+          "lng": 113.751799
+        },
+        "Name": "Dongguan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 31,
+      "Location": {
+        "Full address": "Zhongshan, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 22.517585,
+          "lng": 113.39277
+        },
+        "Name": "Zhongshan"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 29,
+      "Location": {
+        "Full address": "Huizhou, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.112257,
+          "lng": 114.415801
+        },
+        "Name": "Huizhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 18,
+      "Location": {
+        "Full address": "Shantou, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.354091,
+          "lng": 116.681972
+        },
+        "Name": "Shantou"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 18,
+      "Location": {
+        "Full address": "Zhanjiang, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 21.270702,
+          "lng": 110.359368
+        },
+        "Name": "Zhanjiang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Yangjiang, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 21.857958,
+          "lng": 111.982232
+        },
+        "Name": "Yangjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Zhaoqing, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.047191,
+          "lng": 112.465091
+        },
+        "Name": "Zhaoqing"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Meizhou, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 24.288578,
+          "lng": 116.122523
+        },
+        "Name": "Meizhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Qingyuan, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.681774,
+          "lng": 113.056042
+        },
+        "Name": "Qingyuan"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Shaoguan, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 24.810879,
+          "lng": 113.59762
+        },
+        "Name": "Shaoguan"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Jieyang, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.549701,
+          "lng": 116.372708
+        },
+        "Name": "Jieyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Jiangmen, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 22.579117,
+          "lng": 113.081508
+        },
+        "Name": "Jiangmen"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Shanwei, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 22.786186,
+          "lng": 115.375158
+        },
+        "Name": "Shanwei"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Maoming, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 21.662991,
+          "lng": 110.925439
+        },
+        "Name": "Maoming"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Chaozhou, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.656703,
+          "lng": 116.622756
+        },
+        "Name": "Chaozhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Heyuan, Guangdong, China",
+        "GPS Coordinates": {
+          "lat": 23.743685,
+          "lng": 114.700961
+        },
+        "Name": "Heyuan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 112,
+      "Location": {
+        "Full address": "Xinyang, Henan, China",
+        "GPS Coordinates": {
+          "lat": 32.147679,
+          "lng": 114.091192
+        },
+        "Name": "Xinyang"
+      },
+      "Recovered": 6
+    },
+    {
+      "Dead": 2,
+      "Infected": 99,
+      "Location": {
+        "Full address": "Nanyang, Henan, China",
+        "GPS Coordinates": {
+          "lat": 32.990664,
+          "lng": 112.528308
+        },
+        "Name": "Nanyang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 85,
+      "Location": {
+        "Full address": "Zhengzhou, Henan, China",
+        "GPS Coordinates": {
+          "lat": 34.746611,
+          "lng": 113.625328
+        },
+        "Name": "Zhengzhou"
+      },
+      "Recovered": 13
+    },
+    {
+      "Dead": 0,
+      "Infected": 72,
+      "Location": {
+        "Full address": "Zhumadian, Henan, China",
+        "GPS Coordinates": {
+          "lat": 33.011529,
+          "lng": 114.022298
+        },
+        "Name": "Zhumadian"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 60,
+      "Location": {
+        "Full address": "Shangqiu, Henan, China",
+        "GPS Coordinates": {
+          "lat": 34.414961,
+          "lng": 115.656339
+        },
+        "Name": "Shangqiu"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 52,
+      "Location": {
+        "Full address": "Zhoukou, Henan, China",
+        "GPS Coordinates": {
+          "lat": 33.626149,
+          "lng": 114.69695
+        },
+        "Name": "Zhoukou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 33,
+      "Location": {
+        "Full address": "Xinxiang, Henan, China",
+        "GPS Coordinates": {
+          "lat": 35.303704,
+          "lng": 113.926763
+        },
+        "Name": "Xinxiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 33,
+      "Location": {
+        "Full address": "Anyang, Henan, China",
+        "GPS Coordinates": {
+          "lat": 36.097577,
+          "lng": 114.392392
+        },
+        "Name": "Anyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 28,
+      "Location": {
+        "Full address": "Pingdingshan, Henan, China",
+        "GPS Coordinates": {
+          "lat": 33.766169,
+          "lng": 113.192661
+        },
+        "Name": "Pingdingshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 23,
+      "Location": {
+        "Full address": "Luohe, Henan, China",
+        "GPS Coordinates": {
+          "lat": 33.580873,
+          "lng": 114.016536
+        },
+        "Name": "Luohe"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 19,
+      "Location": {
+        "Full address": "Xuchang, Henan, China",
+        "GPS Coordinates": {
+          "lat": 34.035771,
+          "lng": 113.852454
+        },
+        "Name": "Xuchang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Luoyang, Henan, China",
+        "GPS Coordinates": {
+          "lat": 34.620202,
+          "lng": 112.453926
+        },
+        "Name": "Luoyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Kaifeng, Henan, China",
+        "GPS Coordinates": {
+          "lat": 34.797281,
+          "lng": 114.307582
+        },
+        "Name": "Kaifeng"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Jiaozuo, Henan, China",
+        "GPS Coordinates": {
+          "lat": 35.215892,
+          "lng": 113.241823
+        },
+        "Name": "Jiaozuo"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Hebi, Henan, China",
+        "GPS Coordinates": {
+          "lat": 35.748233,
+          "lng": 114.297201
+        },
+        "Name": "Hebi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Sanmenxia, Henan, China",
+        "GPS Coordinates": {
+          "lat": 34.772792,
+          "lng": 111.200367
+        },
+        "Name": "Sanmenxia"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Puyang, Henan, China",
+        "GPS Coordinates": {
+          "lat": 35.761829,
+          "lng": 115.029215
+        },
+        "Name": "Puyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Jiyuan, Henan, China",
+        "GPS Coordinates": {
+          "lat": 35.067243,
+          "lng": 112.601918
+        },
+        "Name": "Jiyuan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 148,
+      "Location": {
+        "Full address": "Changsha, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 28.228209,
+          "lng": 112.938814
+        },
+        "Name": "Changsha"
+      },
+      "Recovered": 6
+    },
+    {
+      "Dead": 0,
+      "Infected": 83,
+      "Location": {
+        "Full address": "Yueyang, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 29.356803,
+          "lng": 113.12873
+        },
+        "Name": "Yueyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 55,
+      "Location": {
+        "Full address": "Shaoyang, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 27.23895,
+          "lng": 111.467674
+        },
+        "Name": "Shaoyang"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 50,
+      "Location": {
+        "Full address": "Changde, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 29.031654,
+          "lng": 111.698784
+        },
+        "Name": "Changde"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 40,
+      "Location": {
+        "Full address": "Loudi, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 27.700062,
+          "lng": 111.993497
+        },
+        "Name": "Loudi"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 35,
+      "Location": {
+        "Full address": "Huaihua, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 27.569517,
+          "lng": 110.001922
+        },
+        "Name": "Huaihua"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 35,
+      "Location": {
+        "Full address": "Hengyang, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 26.893368,
+          "lng": 112.572018
+        },
+        "Name": "Hengyang"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 0,
+      "Infected": 35,
+      "Location": {
+        "Full address": "Yiyang, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 28.55386,
+          "lng": 112.35518
+        },
+        "Name": "Yiyang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 34,
+      "Location": {
+        "Full address": "Zhuzhou, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 27.827986,
+          "lng": 113.133853
+        },
+        "Name": "Zhuzhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 26,
+      "Location": {
+        "Full address": "Yongzhou, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 26.420394,
+          "lng": 111.613445
+        },
+        "Name": "Yongzhou"
+      },
+      "Recovered": 5
+    },
+    {
+      "Dead": 0,
+      "Infected": 22,
+      "Location": {
+        "Full address": "Chenzhou, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 25.770509,
+          "lng": 113.014717
+        },
+        "Name": "Chenzhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 21,
+      "Location": {
+        "Full address": "Xiangtan, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 27.829795,
+          "lng": 112.944026
+        },
+        "Name": "Xiangtan"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Xiangxi, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 28.312001,
+          "lng": 109.738781
+        },
+        "Name": "Xiangxi"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Zhangjiajie, Hunan, China",
+        "GPS Coordinates": {
+          "lat": 29.117096,
+          "lng": 110.479191
+        },
+        "Name": "Zhangjiajie"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 81,
+      "Location": {
+        "Full address": "Hefei, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 31.820591,
+          "lng": 117.227219
+        },
+        "Name": "Hefei"
+      },
+      "Recovered": 5
+    },
+    {
+      "Dead": 0,
+      "Infected": 79,
+      "Location": {
+        "Full address": "Fuyang, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 32.890479,
+          "lng": 115.814504
+        },
+        "Name": "Fuyang"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 55,
+      "Location": {
+        "Full address": "Anqing, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 30.531919,
+          "lng": 117.115101
+        },
+        "Name": "Anqing"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 48,
+      "Location": {
+        "Full address": "Bozhou, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 33.844582,
+          "lng": 115.778676
+        },
+        "Name": "Bozhou"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 43,
+      "Location": {
+        "Full address": "Bengbu, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 32.916287,
+          "lng": 117.389719
+        },
+        "Name": "Bengbu"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 30,
+      "Location": {
+        "Full address": "Lu'an, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 31.734476,
+          "lng": 116.521442
+        },
+        "Name": "Lu'an"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 28,
+      "Location": {
+        "Full address": "Ma'anshan, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 31.67044,
+          "lng": 118.507011
+        },
+        "Name": "Ma'anshan"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 23,
+      "Location": {
+        "Full address": "Suzhou, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 33.646357,
+          "lng": 116.964358
+        },
+        "Name": "Suzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 21,
+      "Location": {
+        "Full address": "Wuhu, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 31.352859,
+          "lng": 118.432941
+        },
+        "Name": "Wuhu"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 19,
+      "Location": {
+        "Full address": "Tongling, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 30.945515,
+          "lng": 117.81154
+        },
+        "Name": "Tongling"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Chuzhou, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 32.25342500000001,
+          "lng": 118.328321
+        },
+        "Name": "Chuzhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Huaibei, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 33.955844,
+          "lng": 116.798265
+        },
+        "Name": "Huaibei"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Chizhou, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 30.656037,
+          "lng": 117.489156
+        },
+        "Name": "Chizhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Huangshan, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 29.714699,
+          "lng": 118.337521
+        },
+        "Name": "Huangshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Huainan, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 32.625478,
+          "lng": 116.999932
+        },
+        "Name": "Huainan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Xuancheng, Anhui, China",
+        "GPS Coordinates": {
+          "lat": 30.940195,
+          "lng": 118.75868
+        },
+        "Name": "Xuancheng"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 121,
+      "Location": {
+        "Full address": "Nanchang, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 28.682892,
+          "lng": 115.858197
+        },
+        "Name": "Nanchang"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 0,
+      "Infected": 78,
+      "Location": {
+        "Full address": "Jiujiang, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 29.705077,
+          "lng": 116.00193
+        },
+        "Name": "Jiujiang"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 59,
+      "Location": {
+        "Full address": "Xinyu, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 27.817808,
+          "lng": 114.917346
+        },
+        "Name": "Xinyu"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 50,
+      "Location": {
+        "Full address": "Shangrao, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 28.454862,
+          "lng": 117.943433
+        },
+        "Name": "Shangrao"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 0,
+      "Infected": 45,
+      "Location": {
+        "Full address": "Yichun, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 27.815743,
+          "lng": 114.416785
+        },
+        "Name": "Yichun"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 42,
+      "Location": {
+        "Full address": "Ganzhou, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 25.830694,
+          "lng": 114.933546
+        },
+        "Name": "Ganzhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 34,
+      "Location": {
+        "Full address": "Fuzhou, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 27.949217,
+          "lng": 116.358181
+        },
+        "Name": "Fuzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 20,
+      "Location": {
+        "Full address": "Pingxiang, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 27.622768,
+          "lng": 113.854556
+        },
+        "Name": "Pingxiang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 15,
+      "Location": {
+        "Full address": "Ji'an, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 27.087637,
+          "lng": 114.964696
+        },
+        "Name": "Ji'an"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Yingtan, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 28.260189,
+          "lng": 117.069202
+        },
+        "Name": "Yingtan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Jingdezhen, Jiangxi, China",
+        "GPS Coordinates": {
+          "lat": 29.268783,
+          "lng": 117.178443
+        },
+        "Name": "Jingdezhen"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 1,
+      "Infected": 60,
+      "Location": {
+        "Full address": "Wanzhou, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 30.807667,
+          "lng": 108.408661
+        },
+        "Name": "Wanzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 18,
+      "Location": {
+        "Full address": "Kaizhou, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 31.2699214,
+          "lng": 108.3816532
+        },
+        "Name": "Kaizhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 18,
+      "Location": {
+        "Full address": "Yunyang, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 30.930612,
+          "lng": 108.697324
+        },
+        "Name": "Yunyang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 16,
+      "Location": {
+        "Full address": "Jiangbei, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.606703,
+          "lng": 106.574271
+        },
+        "Name": "Jiangbei"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 1,
+      "Infected": 15,
+      "Location": {
+        "Full address": "Jiulongpo, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.502272,
+          "lng": 106.510676
+        },
+        "Name": "Jiulongpo"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 15,
+      "Location": {
+        "Full address": "Zhongxian, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 30.299559,
+          "lng": 108.039002
+        },
+        "Name": "Zhongxian"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Dianjiang, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 30.327716,
+          "lng": 107.33339
+        },
+        "Name": "Dianjiang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "1 Xingguang Ave, Yubei Qu, Chongqing Shi, China",
+        "GPS Coordinates": {
+          "lat": 29.6017886,
+          "lng": 106.5075522
+        },
+        "Name": "1"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Yuzhong, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.552736,
+          "lng": 106.568896
+        },
+        "Name": "Yuzhong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Yubei, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.718142,
+          "lng": 106.631187
+        },
+        "Name": "Yubei"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Changshou, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.857996,
+          "lng": 107.081282
+        },
+        "Name": "Changshou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Shizhu, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.99928499999999,
+          "lng": 108.114069
+        },
+        "Name": "Shizhu"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Wuxi, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 31.398604,
+          "lng": 109.570062
+        },
+        "Name": "Wuxi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Qijiang, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.028066,
+          "lng": 106.651361
+        },
+        "Name": "Qijiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Hechuan, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.972084,
+          "lng": 106.27613
+        },
+        "Name": "Hechuan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Fengjie, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 31.018498,
+          "lng": 109.463987
+        },
+        "Name": "Fengjie"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Bishan, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.592024,
+          "lng": 106.227305
+        },
+        "Name": "Bishan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Rongchang, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.405002,
+          "lng": 105.594623
+        },
+        "Name": "Rongchang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Dadukou, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.484527,
+          "lng": 106.482346
+        },
+        "Name": "Dadukou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Dazu, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.707032,
+          "lng": 105.721733
+        },
+        "Name": "Dazu"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Tongliang, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.844811,
+          "lng": 106.056404
+        },
+        "Name": "Tongliang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Wushan, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 31.074834,
+          "lng": 109.879153
+        },
+        "Name": "Wushan"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Nan'an, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.500296,
+          "lng": 106.644428
+        },
+        "Name": "Nan'an"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Fengdu, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.8635,
+          "lng": 107.730894
+        },
+        "Name": "Fengdu"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Tongnan, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 30.191013,
+          "lng": 105.840555
+        },
+        "Name": "Tongnan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Banan, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.40240799999999,
+          "lng": 106.540256
+        },
+        "Name": "Banan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Jiangjin, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.290069,
+          "lng": 106.259281
+        },
+        "Name": "Jiangjin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Yongchuan, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.35611699999999,
+          "lng": 105.927375
+        },
+        "Name": "Yongchuan"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Liangping, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 30.674362,
+          "lng": 107.803911
+        },
+        "Name": "Liangping"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Fuling, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.703113,
+          "lng": 107.389298
+        },
+        "Name": "Fuling"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Chengkou, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 31.947633,
+          "lng": 108.664214
+        },
+        "Name": "Chengkou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Qianjiang, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.533609,
+          "lng": 108.770677
+        },
+        "Name": "Qianjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Shapingba, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.541144,
+          "lng": 106.456877
+        },
+        "Name": "Shapingba"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Pengshui, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.293902,
+          "lng": 108.165537
+        },
+        "Name": "Pengshui"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "China, 重庆市九龙坡区高新区",
+        "GPS Coordinates": {
+          "lat": 29.5279566,
+          "lng": 106.4874971
+        },
+        "Name": "高新区"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Xiushan, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 28.447997,
+          "lng": 109.007094
+        },
+        "Name": "Xiushan"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Wulong, Chongqing, China",
+        "GPS Coordinates": {
+          "lat": 29.325601,
+          "lng": 107.760025
+        },
+        "Name": "Wulong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 52,
+      "Location": {
+        "Full address": "Suzhou, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 31.298974,
+          "lng": 120.585289
+        },
+        "Name": "Suzhou"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 44,
+      "Location": {
+        "Full address": "Nanjing, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 32.060255,
+          "lng": 118.796877
+        },
+        "Name": "Nanjing"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 0,
+      "Infected": 39,
+      "Location": {
+        "Full address": "Xuzhou, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 34.205768,
+          "lng": 117.284124
+        },
+        "Name": "Xuzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 25,
+      "Location": {
+        "Full address": "Wuxi, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 31.491169,
+          "lng": 120.31191
+        },
+        "Name": "Wuxi"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 23,
+      "Location": {
+        "Full address": "Taizhou, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 32.455536,
+          "lng": 119.922933
+        },
+        "Name": "Taizhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 22,
+      "Location": {
+        "Full address": "Nantong, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 31.980171,
+          "lng": 120.894291
+        },
+        "Name": "Nantong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 22,
+      "Location": {
+        "Full address": "Huai'an, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 33.551052,
+          "lng": 119.113185
+        },
+        "Name": "Huai'an"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 19,
+      "Location": {
+        "Full address": "Changzhou, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 31.811226,
+          "lng": 119.974061
+        },
+        "Name": "Changzhou"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 17,
+      "Location": {
+        "Full address": "Lianyungang, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 34.596653,
+          "lng": 119.221611
+        },
+        "Name": "Lianyungang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 15,
+      "Location": {
+        "Full address": "Yangzhou, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 32.394209,
+          "lng": 119.412939
+        },
+        "Name": "Yangzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 15,
+      "Location": {
+        "Full address": "Yancheng, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 33.347316,
+          "lng": 120.16366
+        },
+        "Name": "Yancheng"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Suqian, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 33.963232,
+          "lng": 118.275198
+        },
+        "Name": "Suqian"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Zhenjiang, Jiangsu, China",
+        "GPS Coordinates": {
+          "lat": 32.187849,
+          "lng": 119.425836
+        },
+        "Name": "Zhenjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 1,
+      "Infected": 87,
+      "Location": {
+        "Full address": "Chengdu, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 30.572815,
+          "lng": 104.066801
+        },
+        "Name": "Chengdu"
+      },
+      "Recovered": 10
+    },
+    {
+      "Dead": 0,
+      "Infected": 27,
+      "Location": {
+        "Full address": "Nanchong, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 30.837793,
+          "lng": 106.110698
+        },
+        "Name": "Nanchong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 24,
+      "Location": {
+        "Full address": "Guang'an, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 30.456224,
+          "lng": 106.633088
+        },
+        "Name": "Guang'an"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 17,
+      "Location": {
+        "Full address": "Mianyang, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 31.46746,
+          "lng": 104.679004
+        },
+        "Name": "Mianyang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 15,
+      "Location": {
+        "Full address": "Neijiang, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 29.580228,
+          "lng": 105.058433
+        },
+        "Name": "Neijiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Dazhou, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 31.20957099999999,
+          "lng": 107.468023
+        },
+        "Name": "Dazhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Deyang, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 31.126855,
+          "lng": 104.397894
+        },
+        "Name": "Deyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Bazhong, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 31.867903,
+          "lng": 106.747477
+        },
+        "Name": "Bazhong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Panzhihua, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 26.582347,
+          "lng": 101.718637
+        },
+        "Name": "Panzhihua"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Zigong, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 29.33903,
+          "lng": 104.778442
+        },
+        "Name": "Zigong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Luzhou, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 28.871569,
+          "lng": 105.44174
+        },
+        "Name": "Luzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Garze, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 30.04952,
+          "lng": 101.96231
+        },
+        "Name": "Garze"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Yibin, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 28.751836,
+          "lng": 104.643159
+        },
+        "Name": "Yibin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Liangshan, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 27.88157,
+          "lng": 102.267712
+        },
+        "Name": "Liangshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Guangyuan, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 32.435435,
+          "lng": 105.843357
+        },
+        "Name": "Guangyuan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Suining, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 30.532847,
+          "lng": 105.592898
+        },
+        "Name": "Suining"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Ya'an, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 29.980537,
+          "lng": 103.013261
+        },
+        "Name": "Ya'an"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Meishan, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 30.07728,
+          "lng": 103.848396
+        },
+        "Name": "Meishan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Leshan, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 29.552115,
+          "lng": 103.765678
+        },
+        "Name": "Leshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Ziyang, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 30.128901,
+          "lng": 104.627636
+        },
+        "Name": "Ziyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Aba, Sichuan, China",
+        "GPS Coordinates": {
+          "lat": 31.899413,
+          "lng": 102.224653
+        },
+        "Name": "Aba"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 32,
+      "Location": {
+        "Full address": "Qingdao, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 36.067108,
+          "lng": 120.382609
+        },
+        "Name": "Qingdao"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 28,
+      "Location": {
+        "Full address": "Linyi, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 35.104673,
+          "lng": 118.356414
+        },
+        "Name": "Linyi"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 26,
+      "Location": {
+        "Full address": "Yantai, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 37.46453899999999,
+          "lng": 121.447852
+        },
+        "Name": "Yantai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 25,
+      "Location": {
+        "Full address": "Weihai, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 37.513068,
+          "lng": 122.120419
+        },
+        "Name": "Weihai"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 25,
+      "Location": {
+        "Full address": "Jinan, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 36.6512,
+          "lng": 117.120095
+        },
+        "Name": "Jinan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 21,
+      "Location": {
+        "Full address": "Jining, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 35.41498199999999,
+          "lng": 116.587282
+        },
+        "Name": "Jining"
+      },
+      "Recovered": 3
+    },
+    {
+      "Dead": 0,
+      "Infected": 19,
+      "Location": {
+        "Full address": "Dezhou, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 37.43409200000001,
+          "lng": 116.357464
+        },
+        "Name": "Dezhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 16,
+      "Location": {
+        "Full address": "Zaozhuang, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 34.810487,
+          "lng": 117.323725
+        },
+        "Name": "Zaozhuang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 14,
+      "Location": {
+        "Full address": "Rizhao, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 35.416734,
+          "lng": 119.526925
+        },
+        "Name": "Rizhao"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 14,
+      "Location": {
+        "Full address": "Weifang, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 36.706962,
+          "lng": 119.161748
+        },
+        "Name": "Weifang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Zibo, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 36.813546,
+          "lng": 118.055019
+        },
+        "Name": "Zibo"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Tai'an, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 36.200252,
+          "lng": 117.087614
+        },
+        "Name": "Tai'an"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Binzhou, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 37.38198,
+          "lng": 117.970699
+        },
+        "Name": "Binzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Liaocheng, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 36.45703,
+          "lng": 115.98546
+        },
+        "Name": "Liaocheng"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Heze, Shandong, China",
+        "GPS Coordinates": {
+          "lat": 35.23375,
+          "lng": 115.480656
+        },
+        "Name": "Heze"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 45,
+      "Location": {
+        "Full address": "Haidian, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.959953,
+          "lng": 116.298326
+        },
+        "Name": "Haidian"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 36,
+      "Location": {
+        "Full address": "Chaoyang, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.921469,
+          "lng": 116.443107
+        },
+        "Name": "Chaoyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 29,
+      "Location": {
+        "Full address": "Daxing, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.726929,
+          "lng": 116.341395
+        },
+        "Name": "Daxing"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 28,
+      "Location": {
+        "Full address": "Xicheng, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.912288,
+          "lng": 116.365867
+        },
+        "Name": "Xicheng"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 20,
+      "Location": {
+        "Full address": "Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.90419989999999,
+          "lng": 116.4073963
+        },
+        "Name": "Beijing"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 18,
+      "Location": {
+        "Full address": "Fengtai, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.858427,
+          "lng": 116.287149
+        },
+        "Name": "Fengtai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 14,
+      "Location": {
+        "Full address": "Changping, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 40.220659,
+          "lng": 116.231203
+        },
+        "Name": "Changping"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Tongzhou, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.909946,
+          "lng": 116.656434
+        },
+        "Name": "Tongzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Shijingshan, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.906611,
+          "lng": 116.222981
+        },
+        "Name": "Shijingshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Shunyi, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 40.130347,
+          "lng": 116.65465
+        },
+        "Name": "Shunyi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Fangshan, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.749144,
+          "lng": 116.143267
+        },
+        "Name": "Fangshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Mentougou, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.940646,
+          "lng": 116.102009
+        },
+        "Name": "Mentougou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Huairou, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 40.316304,
+          "lng": 116.631979
+        },
+        "Name": "Huairou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Dongcheng, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.92835300000001,
+          "lng": 116.416357
+        },
+        "Name": "Dongcheng"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Yanqing, Beijing, China",
+        "GPS Coordinates": {
+          "lat": 40.456951,
+          "lng": 115.974848
+        },
+        "Name": "Yanqing"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 1,
+      "Infected": 0,
+      "Location": {
+        "Full address": "Beijing, China",
+        "GPS Coordinates": {
+          "lat": 39.90419989999999,
+          "lng": 116.4073963
+        },
+        "Name": "Beijing"
+      },
+      "Recovered": 19
+    },
+    {
+      "Dead": 1,
+      "Infected": 81,
+      "Location": {
+        "Full address": "Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.230416,
+          "lng": 121.473701
+        },
+        "Name": "Shanghai"
+      },
+      "Recovered": 6
+    },
+    {
+      "Dead": 0,
+      "Infected": 43,
+      "Location": {
+        "Full address": "Pudong, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.221517,
+          "lng": 121.544379
+        },
+        "Name": "Pudong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Baoshan, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.405457,
+          "lng": 121.489612
+        },
+        "Name": "Baoshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Xuhui, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.188637,
+          "lng": 121.436539
+        },
+        "Name": "Xuhui"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Minhang, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.112818,
+          "lng": 121.381716
+        },
+        "Name": "Minhang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Jing'an, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.223427,
+          "lng": 121.455964
+        },
+        "Name": "Jing'an"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Changning, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.220367,
+          "lng": 121.424624
+        },
+        "Name": "Changning"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Songjiang, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.032243,
+          "lng": 121.227747
+        },
+        "Name": "Songjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Putuo, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.24984,
+          "lng": 121.395555
+        },
+        "Name": "Putuo"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Fengxian, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 30.917795,
+          "lng": 121.474042
+        },
+        "Name": "Fengxian"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Hongkou, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.2646,
+          "lng": 121.505132
+        },
+        "Name": "Hongkou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Huangpu, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.231763,
+          "lng": 121.484443
+        },
+        "Name": "Huangpu"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Yangpu, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.259822,
+          "lng": 121.525727
+        },
+        "Name": "Yangpu"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Jiading, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.37586899999999,
+          "lng": 121.265374
+        },
+        "Name": "Jiading"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Qingpu, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.150681,
+          "lng": 121.124178
+        },
+        "Name": "Qingpu"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Jinshan, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 30.741991,
+          "lng": 121.341969
+        },
+        "Name": "Jinshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Chongming, Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.623728,
+          "lng": 121.397421
+        },
+        "Name": "Chongming"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 0,
+      "Location": {
+        "Full address": "Shanghai, China",
+        "GPS Coordinates": {
+          "lat": 31.230416,
+          "lng": 121.473701
+        },
+        "Name": "Shanghai"
+      },
+      "Recovered": 6
+    },
+    {
+      "Dead": 0,
+      "Infected": 53,
+      "Location": {
+        "Full address": "Fuzhou, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 26.074478,
+          "lng": 119.296482
+        },
+        "Name": "Fuzhou"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 37,
+      "Location": {
+        "Full address": "Putian, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 25.454084,
+          "lng": 119.007777
+        },
+        "Name": "Putian"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 35,
+      "Location": {
+        "Full address": "Quanzhou, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 24.874132,
+          "lng": 118.675675
+        },
+        "Name": "Quanzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 20,
+      "Location": {
+        "Full address": "Xiamen, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 24.479833,
+          "lng": 118.089425
+        },
+        "Name": "Xiamen"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Zhangzhou, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 24.513025,
+          "lng": 117.647093
+        },
+        "Name": "Zhangzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Ningde, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 26.665617,
+          "lng": 119.547932
+        },
+        "Name": "Ningde"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Sanming, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 26.263406,
+          "lng": 117.638678
+        },
+        "Name": "Sanming"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Nanping, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 26.641774,
+          "lng": 118.17771
+        },
+        "Name": "Nanping"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Longyan, Fujian, China",
+        "GPS Coordinates": {
+          "lat": 25.075123,
+          "lng": 117.017536
+        },
+        "Name": "Longyan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 63,
+      "Location": {
+        "Full address": "Harbin, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 45.80377499999999,
+          "lng": 126.534967
+        },
+        "Name": "Harbin"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 2,
+      "Infected": 22,
+      "Location": {
+        "Full address": "Suihua, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 46.653845,
+          "lng": 126.968887
+        },
+        "Name": "Suihua"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Shuangyashan, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 46.646508,
+          "lng": 131.159133
+        },
+        "Name": "Shuangyashan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Daqing, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 46.589309,
+          "lng": 125.103784
+        },
+        "Name": "Daqing"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Jiamusi, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 46.799777,
+          "lng": 130.3188779
+        },
+        "Name": "Jiamusi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Jixi, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 45.295075,
+          "lng": 130.969333
+        },
+        "Name": "Jixi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Mudanjiang, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 44.55165299999999,
+          "lng": 129.633168
+        },
+        "Name": "Mudanjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Qitaihe, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 45.771726,
+          "lng": 131.0031381
+        },
+        "Name": "Qitaihe"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Qiqihar, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 47.35434799999999,
+          "lng": 123.918186
+        },
+        "Name": "Qiqihar"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Da Hinggan Ling, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 52.335262,
+          "lng": 124.711526
+        },
+        "Name": "Da Hinggan Ling"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Hegang, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 47.349916,
+          "lng": 130.297964
+        },
+        "Name": "Hegang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Heihe, Heilongjiang, China",
+        "GPS Coordinates": {
+          "lat": 50.245129,
+          "lng": 127.528293
+        },
+        "Name": "Heihe"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 60,
+      "Location": {
+        "Full address": "Xi'an, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 34.341574,
+          "lng": 108.93977
+        },
+        "Name": "Xi'an"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 17,
+      "Location": {
+        "Full address": "Ankang, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 32.684714,
+          "lng": 109.029022
+        },
+        "Name": "Ankang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 16,
+      "Location": {
+        "Full address": "Hanzhong, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 33.06748,
+          "lng": 107.023323
+        },
+        "Name": "Hanzhong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Xianyang, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 34.329605,
+          "lng": 108.708991
+        },
+        "Name": "Xianyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Baoji, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 34.363184,
+          "lng": 107.237743
+        },
+        "Name": "Baoji"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Yan'an, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 36.585445,
+          "lng": 109.489757
+        },
+        "Name": "Yan'an"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Tongchuan, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 34.897887,
+          "lng": 108.945019
+        },
+        "Name": "Tongchuan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Weinan, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 34.49938,
+          "lng": 109.502882
+        },
+        "Name": "Weinan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Shangluo, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 33.870422,
+          "lng": 109.940477
+        },
+        "Name": "Shangluo"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Yulin, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 38.28539,
+          "lng": 109.734589
+        },
+        "Name": "Yulin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Hancheng, Weinan, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 35.476788,
+          "lng": 110.442846
+        },
+        "Name": "Hancheng"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Yangling, Xianyang, Shaanxi, China",
+        "GPS Coordinates": {
+          "lat": 34.27211700000001,
+          "lng": 108.084731
+        },
+        "Name": "Yangling"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 27,
+      "Location": {
+        "Full address": "Nanning, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 22.817002,
+          "lng": 108.366543
+        },
+        "Name": "Nanning"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 27,
+      "Location": {
+        "Full address": "Beihai, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 21.481291,
+          "lng": 109.120161
+        },
+        "Name": "Beihai"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 24,
+      "Location": {
+        "Full address": "Guilin, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 25.234479,
+          "lng": 110.179953
+        },
+        "Name": "Guilin"
+      },
+      "Recovered": 4
+    },
+    {
+      "Dead": 0,
+      "Infected": 15,
+      "Location": {
+        "Full address": "Liuzhou, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 24.326292,
+          "lng": 109.428608
+        },
+        "Name": "Liuzhou"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Fangchenggang, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 21.68686,
+          "lng": 108.353846
+        },
+        "Name": "Fangchenggang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Yulin, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 22.654032,
+          "lng": 110.18122
+        },
+        "Name": "Yulin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Hechi, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 24.692931,
+          "lng": 108.085261
+        },
+        "Name": "Hechi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Wuzhou, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 23.476962,
+          "lng": 111.279115
+        },
+        "Name": "Wuzhou"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Guigang, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 23.11153,
+          "lng": 109.598926
+        },
+        "Name": "Guigang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Hezhou, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 24.403582,
+          "lng": 111.566694
+        },
+        "Name": "Hezhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Qinzhou, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 21.979933,
+          "lng": 108.654146
+        },
+        "Name": "Qinzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Baise, Guangxi, China",
+        "GPS Coordinates": {
+          "lat": 23.902479,
+          "lng": 106.618283
+        },
+        "Name": "Baise"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 21,
+      "Location": {
+        "Full address": "Shijiazhuang, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 38.042805,
+          "lng": 114.514893
+        },
+        "Name": "Shijiazhuang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 1,
+      "Infected": 20,
+      "Location": {
+        "Full address": "Cangzhou, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 38.30447700000001,
+          "lng": 116.838834
+        },
+        "Name": "Cangzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 16,
+      "Location": {
+        "Full address": "Xingtai, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 37.070834,
+          "lng": 114.504677
+        },
+        "Name": "Xingtai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 14,
+      "Location": {
+        "Full address": "Handan, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 36.625656,
+          "lng": 114.538961
+        },
+        "Name": "Handan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Baoding, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 38.874434,
+          "lng": 115.464589
+        },
+        "Name": "Baoding"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Langfang, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 39.53804700000001,
+          "lng": 116.683752
+        },
+        "Name": "Langfang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Tangshan, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 39.63086699999999,
+          "lng": 118.180193
+        },
+        "Name": "Tangshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Zhangjiakou, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 40.76754400000001,
+          "lng": 114.886335
+        },
+        "Name": "Zhangjiakou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Hengshui, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 37.73892000000001,
+          "lng": 115.670177
+        },
+        "Name": "Hengshui"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Chengde, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 40.952942,
+          "lng": 117.96275
+        },
+        "Name": "Chengde"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Qinhuangdao, Hebei, China",
+        "GPS Coordinates": {
+          "lat": 39.935361,
+          "lng": 119.600523
+        },
+        "Name": "Qinhuangdao"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 34,
+      "Location": {
+        "Full address": "Kunming, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 24.880095,
+          "lng": 102.832891
+        },
+        "Name": "Kunming"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Xishuangbanna, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 22.00881,
+          "lng": 100.79715
+        },
+        "Name": "Xishuangbanna"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Yuxi, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 24.347324,
+          "lng": 102.527197
+        },
+        "Name": "Yuxi"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Zhaotong, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 27.338257,
+          "lng": 103.717465
+        },
+        "Name": "Zhaotong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Qujing, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 25.489999,
+          "lng": 103.796167
+        },
+        "Name": "Qujing"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Baoshan, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 25.112046,
+          "lng": 99.16176100000001
+        },
+        "Name": "Baoshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Lijiang, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 26.855047,
+          "lng": 100.22775
+        },
+        "Name": "Lijiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Dali, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 25.606486,
+          "lng": 100.267638
+        },
+        "Name": "Dali"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Honghe, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 23.36225,
+          "lng": 103.374576
+        },
+        "Name": "Honghe"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Dehong, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 24.433353,
+          "lng": 98.58489499999999
+        },
+        "Name": "Dehong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Pu'er, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 22.825065,
+          "lng": 100.966512
+        },
+        "Name": "Pu'er"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Chuxiong, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 25.032889,
+          "lng": 101.545905
+        },
+        "Name": "Chuxiong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Lincang, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 23.884154,
+          "lng": 100.088824
+        },
+        "Name": "Lincang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Wenshan, Yunnan, China",
+        "GPS Coordinates": {
+          "lat": 23.386305,
+          "lng": 104.23251
+        },
+        "Name": "Wenshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 18,
+      "Location": {
+        "Full address": "Shenyang, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 41.805699,
+          "lng": 123.431472
+        },
+        "Name": "Shenyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Dalian, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 38.91400300000001,
+          "lng": 121.614682
+        },
+        "Name": "Dalian"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Panjin, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 41.119997,
+          "lng": 122.070714
+        },
+        "Name": "Panjin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Jinzhou, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 41.095685,
+          "lng": 121.1268459
+        },
+        "Name": "Jinzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Fuxin, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 42.021602,
+          "lng": 121.670273
+        },
+        "Name": "Fuxin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Chaoyang, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 41.57365,
+          "lng": 120.4493879
+        },
+        "Name": "Chaoyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Dandong, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 40.000787,
+          "lng": 124.35445
+        },
+        "Name": "Dandong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Huludao, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 40.71104,
+          "lng": 120.83694
+        },
+        "Name": "Huludao"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Benxi, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 41.486981,
+          "lng": 123.685142
+        },
+        "Name": "Benxi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Tieling, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 42.223828,
+          "lng": 123.726035
+        },
+        "Name": "Tieling"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Liaoyang, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 41.267244,
+          "lng": 123.236944
+        },
+        "Name": "Liaoyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Yingkou, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 40.667433,
+          "lng": 122.235084
+        },
+        "Name": "Yingkou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Anshan, Liaoning, China",
+        "GPS Coordinates": {
+          "lat": 41.108647,
+          "lng": 122.994329
+        },
+        "Name": "Anshan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 18,
+      "Location": {
+        "Full address": "Sanya, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 18.252847,
+          "lng": 109.511909
+        },
+        "Name": "Sanya"
+      },
+      "Recovered": 5
+    },
+    {
+      "Dead": 0,
+      "Infected": 14,
+      "Location": {
+        "Full address": "Haikou, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 20.044412,
+          "lng": 110.198286
+        },
+        "Name": "Haikou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 11,
+      "Location": {
+        "Full address": "Wanning, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 18.795143,
+          "lng": 110.391073
+        },
+        "Name": "Wanning"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Danzhou, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.521134,
+          "lng": 109.580811
+        },
+        "Name": "Danzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Qionghai, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.258341,
+          "lng": 110.474648
+        },
+        "Name": "Qionghai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Lingshui, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 18.506048,
+          "lng": 110.037503
+        },
+        "Name": "Lingshui"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Lingao, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.912025,
+          "lng": 109.690508
+        },
+        "Name": "Lingao"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 1,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Chengmai, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.738521,
+          "lng": 110.006755
+        },
+        "Name": "Chengmai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Ding'an, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.681434,
+          "lng": 110.35889
+        },
+        "Name": "Ding'an"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Changjiang, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.298184,
+          "lng": 109.055739
+        },
+        "Name": "Changjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Dongfang, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.09535,
+          "lng": 108.651815
+        },
+        "Name": "Dongfang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Qiongzhong, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.033369,
+          "lng": 109.838389
+        },
+        "Name": "Qiongzhong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Ledong, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 18.750259,
+          "lng": 109.173054
+        },
+        "Name": "Ledong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Wenchang, Hainan, China",
+        "GPS Coordinates": {
+          "lat": 19.543278,
+          "lng": 110.797759
+        },
+        "Name": "Wenchang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 19,
+      "Location": {
+        "Full address": "Jinzhong, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 37.687357,
+          "lng": 112.752652
+        },
+        "Name": "Jinzhong"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 16,
+      "Location": {
+        "Full address": "Yuncheng, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 35.026516,
+          "lng": 111.00746
+        },
+        "Name": "Yuncheng"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Datong, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 40.076762,
+          "lng": 113.300129
+        },
+        "Name": "Datong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Jincheng, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 35.490701,
+          "lng": 112.851831
+        },
+        "Name": "Jincheng"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Taiyuan, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 37.87059,
+          "lng": 112.548879
+        },
+        "Name": "Taiyuan"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Lvliang, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 37.518314,
+          "lng": 111.144319
+        },
+        "Name": "Lvliang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Changzhi, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 36.195409,
+          "lng": 113.116404
+        },
+        "Name": "Changzhi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Shuozhou, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 39.331595,
+          "lng": 112.432825
+        },
+        "Name": "Shuozhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Xinzhou, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 38.416663,
+          "lng": 112.734174
+        },
+        "Name": "Xinzhou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Yangquan, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 37.856971,
+          "lng": 113.580519
+        },
+        "Name": "Yangquan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Linfen, Shanxi, China",
+        "GPS Coordinates": {
+          "lat": 36.088005,
+          "lng": 111.518975
+        },
+        "Name": "Linfen"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 13,
+      "Location": {
+        "Full address": "Baodi, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.717379,
+          "lng": 117.309863
+        },
+        "Name": "Baodi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Hebei, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.14786900000001,
+          "lng": 117.196648
+        },
+        "Name": "Hebei"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Hedong, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.128291,
+          "lng": 117.251586
+        },
+        "Name": "Hedong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Heping, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.116949,
+          "lng": 117.21451
+        },
+        "Name": "Heping"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.3433574,
+          "lng": 117.3616476
+        },
+        "Name": "Tianjin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Hexi, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.109563,
+          "lng": 117.223371
+        },
+        "Name": "Hexi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Ninghe, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.330087,
+          "lng": 117.826724
+        },
+        "Name": "Ninghe"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Dongli, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.086569,
+          "lng": 117.314323
+        },
+        "Name": "Dongli"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Nankai, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.138202,
+          "lng": 117.150738
+        },
+        "Name": "Nankai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Xiqing, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.141152,
+          "lng": 117.008826
+        },
+        "Name": "Xiqing"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Binhai, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.00366,
+          "lng": 117.710496
+        },
+        "Name": "Binhai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Hongqiao, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 39.167345,
+          "lng": 117.151533
+        },
+        "Name": "Hongqiao"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Jinnan, Tianjin, China",
+        "GPS Coordinates": {
+          "lat": 38.937928,
+          "lng": 117.35726
+        },
+        "Name": "Jinnan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Guiyang, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 26.647661,
+          "lng": 106.630153
+        },
+        "Name": "Guiyang"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Liupanshui, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 26.592666,
+          "lng": 104.830359
+        },
+        "Name": "Liupanshui"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Zunyi, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 27.725654,
+          "lng": 106.927389
+        },
+        "Name": "Zunyi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Bijie, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 27.283955,
+          "lng": 105.291643
+        },
+        "Name": "Bijie"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Tongren, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 27.731514,
+          "lng": 109.189598
+        },
+        "Name": "Tongren"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Qiannan, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 26.254092,
+          "lng": 107.522097
+        },
+        "Name": "Qiannan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Qiandongnan, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 26.583442,
+          "lng": 107.982859
+        },
+        "Name": "Qiandongnan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Qianxinan, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 25.087856,
+          "lng": 104.906397
+        },
+        "Name": "Qianxinan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Anshun, Guizhou, China",
+        "GPS Coordinates": {
+          "lat": 26.253088,
+          "lng": 105.947595
+        },
+        "Name": "Anshun"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 28,
+      "Location": {
+        "Full address": "Lanzhou, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 36.061089,
+          "lng": 103.834303
+        },
+        "Name": "Lanzhou"
+      },
+      "Recovered": 2
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Tianshui, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 34.58088499999999,
+          "lng": 105.72498
+        },
+        "Name": "Tianshui"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Longnan, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 33.400684,
+          "lng": 104.921841
+        },
+        "Name": "Longnan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Linxia, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 35.5872118,
+          "lng": 103.2086442
+        },
+        "Name": "Linxia"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Dingxi, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 35.580662,
+          "lng": 104.626282
+        },
+        "Name": "Dingxi"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Zhangye, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 38.925875,
+          "lng": 100.449818
+        },
+        "Name": "Zhangye"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Baiyin, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 36.545015,
+          "lng": 104.138586
+        },
+        "Name": "Baiyin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Jinchang, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 38.520089,
+          "lng": 102.188043
+        },
+        "Name": "Jinchang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Pingliang, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 35.543061,
+          "lng": 106.665131
+        },
+        "Name": "Pingliang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Gannan, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 34.983385,
+          "lng": 102.911027
+        },
+        "Name": "Gannan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Qingyang, Gansu, China",
+        "GPS Coordinates": {
+          "lat": 35.709077,
+          "lng": 107.643631
+        },
+        "Name": "Qingyang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 18,
+      "Location": {
+        "Full address": "Changchun, Jilin, China",
+        "GPS Coordinates": {
+          "lat": 43.817071,
+          "lng": 125.323544
+        },
+        "Name": "Changchun"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Siping, Jilin, China",
+        "GPS Coordinates": {
+          "lat": 43.166419,
+          "lng": 124.350398
+        },
+        "Name": "Siping"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Jilin, China",
+        "GPS Coordinates": {
+          "lat": 43.837883,
+          "lng": 126.549572
+        },
+        "Name": "Jilin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Gongzhuling, Siping, Jilin, China",
+        "GPS Coordinates": {
+          "lat": 43.504687,
+          "lng": 124.82283
+        },
+        "Name": "Gongzhuling"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Yanbian, Jilin, China",
+        "GPS Coordinates": {
+          "lat": 42.90940800000001,
+          "lng": 129.4718681
+        },
+        "Name": "Yanbian"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Liaoyuan, Jilin, China",
+        "GPS Coordinates": {
+          "lat": 42.887766,
+          "lng": 125.14366
+        },
+        "Name": "Liaoyuan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Songyuan, Jilin, China",
+        "GPS Coordinates": {
+          "lat": 45.141789,
+          "lng": 124.825117
+        },
+        "Name": "Songyuan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Tonghua, Jilin, China",
+        "GPS Coordinates": {
+          "lat": 41.728401,
+          "lng": 125.939697
+        },
+        "Name": "Tonghua"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 9,
+      "Location": {
+        "Full address": "Ordos, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 39.608266,
+          "lng": 109.781327
+        },
+        "Name": "Ordos"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Baotou, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 40.65797800000001,
+          "lng": 109.840313
+        },
+        "Name": "Baotou"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Hohhot, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 40.842356,
+          "lng": 111.749995
+        },
+        "Name": "Hohhot"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Bayan Nur, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 40.743213,
+          "lng": 107.387657
+        },
+        "Name": "Bayan Nur"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Ulanqab, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 40.994785,
+          "lng": 113.132585
+        },
+        "Name": "Ulanqab"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Hulun Buir, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 49.211742,
+          "lng": 119.765607
+        },
+        "Name": "Hulun Buir"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Xilin Gol, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 43.933454,
+          "lng": 116.0482221
+        },
+        "Name": "Xilin Gol"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Chifeng, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 42.25785,
+          "lng": 118.886931
+        },
+        "Name": "Chifeng"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Hinggan, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 46.082462,
+          "lng": 122.037657
+        },
+        "Name": "Hinggan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Tongliao, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 43.65289,
+          "lng": 122.243444
+        },
+        "Name": "Tongliao"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Wuhai, Inner Mongolia, China",
+        "GPS Coordinates": {
+          "lat": 39.655248,
+          "lng": 106.794216
+        },
+        "Name": "Wuhai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 20,
+      "Location": {
+        "Full address": "Yinchuan, Ningxia, China",
+        "GPS Coordinates": {
+          "lat": 38.487193,
+          "lng": 106.230908
+        },
+        "Name": "Yinchuan"
+      },
+      "Recovered": 1
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Wuzhong, Ningxia, China",
+        "GPS Coordinates": {
+          "lat": 37.99746,
+          "lng": 106.198393
+        },
+        "Name": "Wuzhong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Zhongwei, Ningxia, China",
+        "GPS Coordinates": {
+          "lat": 37.499972,
+          "lng": 105.196902
+        },
+        "Name": "Zhongwei"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Guyuan, Ningxia, China",
+        "GPS Coordinates": {
+          "lat": 36.01585499999999,
+          "lng": 106.24261
+        },
+        "Name": "Guyuan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "143 Jiefang E St, Xingqing Qu, Yinchuan Shi, Ningxia Huizuzizhiqu, China",
+        "GPS Coordinates": {
+          "lat": 38.463887,
+          "lng": 106.287421
+        },
+        "Name": "143"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Shizuishan, Ningxia, China",
+        "GPS Coordinates": {
+          "lat": 38.983236,
+          "lng": 106.383303
+        },
+        "Name": "Shizuishan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Urumqi, Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 43.825592,
+          "lng": 87.61684799999999
+        },
+        "Name": "Urumqi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "Ili, Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 43.91682300000001,
+          "lng": 81.324136
+        },
+        "Name": "Ili"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 42.5246357,
+          "lng": 87.5395855
+        },
+        "Name": "Xinjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Turpan, Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 42.951303,
+          "lng": 89.189752
+        },
+        "Name": "Turpan"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 42.5246357,
+          "lng": 87.5395855
+        },
+        "Name": "Xinjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Manas, Changji, Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 44.950655,
+          "lng": 86.21387299999999
+        },
+        "Name": "Manas"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Aksu, Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 41.167548,
+          "lng": 80.263387
+        },
+        "Name": "Aksu"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Changji, Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 44.011182,
+          "lng": 87.308224
+        },
+        "Name": "Changji"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Xinjiang, China",
+        "GPS Coordinates": {
+          "lat": 42.5246357,
+          "lng": 87.5395855
+        },
+        "Name": "Xinjiang"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 12,
+      "Location": {
+        "Full address": "Xining, Qinghai, China",
+        "GPS Coordinates": {
+          "lat": 36.617134,
+          "lng": 101.778223
+        },
+        "Name": "Xining"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Haibei, Qinghai, China",
+        "GPS Coordinates": {
+          "lat": 36.954413,
+          "lng": 100.900997
+        },
+        "Name": "Haibei"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Macao",
+        "GPS Coordinates": {
+          "lat": 22.198745,
+          "lng": 113.543873
+        },
+        "Name": "Macao"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Lhasa, Tibet, China",
+        "GPS Coordinates": {
+          "lat": 29.652491,
+          "lng": 91.17210999999999
+        },
+        "Name": "Lhasa"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Melbourne VIC, Australia",
+        "GPS Coordinates": {
+          "lat": -37.8136276,
+          "lng": 144.9630576
+        },
+        "Name": "Melbourne"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Sydney NSW, Australia",
+        "GPS Coordinates": {
+          "lat": -33.8688197,
+          "lng": 151.2092955
+        },
+        "Name": "Sydney"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Gold Coast QLD, Australia",
+        "GPS Coordinates": {
+          "lat": -28.016667,
+          "lng": 153.4
+        },
+        "Name": "Gold Coast"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Adelaide SA, Australia",
+        "GPS Coordinates": {
+          "lat": -34.9284989,
+          "lng": 138.6007456
+        },
+        "Name": "Adelaide"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Preah Sihanouk, Cambodia",
+        "GPS Coordinates": {
+          "lat": 10.6267867,
+          "lng": 103.5115545
+        },
+        "Name": "Preah Sihanouk"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Vancouver, BC, Canada",
+        "GPS Coordinates": {
+          "lat": 49.2827291,
+          "lng": -123.1207375
+        },
+        "Name": "Vancouver"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Toronto, ON, Canada",
+        "GPS Coordinates": {
+          "lat": 43.653226,
+          "lng": -79.3831843
+        },
+        "Name": "Toronto"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Rovaniemi, Finland",
+        "GPS Coordinates": {
+          "lat": 66.50394779999999,
+          "lng": 25.7293906
+        },
+        "Name": "Rovaniemi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Bordeaux, France",
+        "GPS Coordinates": {
+          "lat": 44.837789,
+          "lng": -0.57918
+        },
+        "Name": "Bordeaux"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Paris, France",
+        "GPS Coordinates": {
+          "lat": 48.856614,
+          "lng": 2.3522219
+        },
+        "Name": "Paris"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 7,
+      "Location": {
+        "Full address": "82319 Starnberg, Germany",
+        "GPS Coordinates": {
+          "lat": 47.9999615,
+          "lng": 11.339009
+        },
+        "Name": "Starnberg"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Frankfurt, Germany",
+        "GPS Coordinates": {
+          "lat": 50.1109221,
+          "lng": 8.6821267
+        },
+        "Name": "Frankfurt"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 1,
+      "Infected": 17,
+      "Location": {
+        "Full address": "Hong Kong",
+        "GPS Coordinates": {
+          "lat": 22.3193039,
+          "lng": 114.1693611
+        },
+        "Name": "Hong Kong"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Kerala, India",
+        "GPS Coordinates": {
+          "lat": 10.8505159,
+          "lng": 76.2710833
+        },
+        "Name": "Kerala"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Rome, Metropolitan City of Rome, Italy",
+        "GPS Coordinates": {
+          "lat": 41.9027835,
+          "lng": 12.4963655
+        },
+        "Name": "Rome"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 10,
+      "Location": {
+        "Full address": "Tokyo, Japan",
+        "GPS Coordinates": {
+          "lat": 35.6761919,
+          "lng": 139.6503106
+        },
+        "Name": "Tokyo"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Yokohama, Kanagawa, Japan",
+        "GPS Coordinates": {
+          "lat": 35.4436739,
+          "lng": 139.6379639
+        },
+        "Name": "Yokohama"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Nara, Japan",
+        "GPS Coordinates": {
+          "lat": 34.685109,
+          "lng": 135.8048019
+        },
+        "Name": "Nara"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Haneda Airport (HND), Hanedakūkō, Ota City, Tōkyō-to 144-0041, Japan",
+        "GPS Coordinates": {
+          "lat": 35.5493932,
+          "lng": 139.7798386
+        },
+        "Name": "Haneda Airport"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Kyoto, Japan",
+        "GPS Coordinates": {
+          "lat": 35.011564,
+          "lng": 135.7681489
+        },
+        "Name": "Kyoto"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Osaka, Japan",
+        "GPS Coordinates": {
+          "lat": 34.6937249,
+          "lng": 135.5022535
+        },
+        "Name": "Osaka"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Mie, Japan",
+        "GPS Coordinates": {
+          "lat": 33.8143901,
+          "lng": 136.0487047
+        },
+        "Name": "Mie"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Langkawi, 07000 Langkawi, Kedah, Malaysia",
+        "GPS Coordinates": {
+          "lat": 6.35,
+          "lng": 99.8
+        },
+        "Name": "Langkawi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Johor Bahru, Johor, Malaysia",
+        "GPS Coordinates": {
+          "lat": 1.492659,
+          "lng": 103.7413591
+        },
+        "Name": "Johor Bahru"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Sungai Buloh, Selangor, Malaysia",
+        "GPS Coordinates": {
+          "lat": 3.20933,
+          "lng": 101.5613392
+        },
+        "Name": "Sungai Buloh"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Teku, Kathmandu 44600, Nepal",
+        "GPS Coordinates": {
+          "lat": 27.6953569,
+          "lng": 85.30392739999999
+        },
+        "Name": "Teku"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 1,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Manila, Metro Manila, Philippines",
+        "GPS Coordinates": {
+          "lat": 14.5995124,
+          "lng": 120.9842195
+        },
+        "Name": "Manila"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Zabaykalsky Krai, Russia",
+        "GPS Coordinates": {
+          "lat": 53.0928771,
+          "lng": 116.9676561
+        },
+        "Name": "Zabaykalsky Krai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Tyumen, Tyumen Oblast, Russia",
+        "GPS Coordinates": {
+          "lat": 57.1612975,
+          "lng": 65.5250172
+        },
+        "Name": "Tyumen"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 24,
+      "Location": {
+        "Full address": "Singapore",
+        "GPS Coordinates": {
+          "lat": 1.352083,
+          "lng": 103.819836
+        },
+        "Name": "Singapore"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 6,
+      "Location": {
+        "Full address": "Incheon, South Korea",
+        "GPS Coordinates": {
+          "lat": 37.4562557,
+          "lng": 126.7052062
+        },
+        "Name": "Incheon"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 4,
+      "Location": {
+        "Full address": "Seoul, South Korea",
+        "GPS Coordinates": {
+          "lat": 37.566535,
+          "lng": 126.9779692
+        },
+        "Name": "Seoul"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Asan-si, Chungcheongnam-do, South Korea",
+        "GPS Coordinates": {
+          "lat": 36.789796,
+          "lng": 127.0018494
+        },
+        "Name": "Asan-si"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Jincheon-gun, Chungcheongbuk-do, South Korea",
+        "GPS Coordinates": {
+          "lat": 36.8553798,
+          "lng": 127.4361117
+        },
+        "Name": "Jincheon-gun"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "La Gomera, Santa Cruz de Tenerife, Spain",
+        "GPS Coordinates": {
+          "lat": 28.1033035,
+          "lng": -17.2193578
+        },
+        "Name": "La Gomera"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Negombo, Sri Lanka",
+        "GPS Coordinates": {
+          "lat": 7.200796799999999,
+          "lng": 79.8736754
+        },
+        "Name": "Negombo"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Jönköping, Sweden",
+        "GPS Coordinates": {
+          "lat": 57.78261370000001,
+          "lng": 14.1617876
+        },
+        "Name": "Jönköping"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Kaohsiung City, Taiwan",
+        "GPS Coordinates": {
+          "lat": 22.6272784,
+          "lng": 120.3014353
+        },
+        "Name": "Kaohsiung City"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 8,
+      "Location": {
+        "Full address": "Taipei, Taiwan",
+        "GPS Coordinates": {
+          "lat": 25.0329694,
+          "lng": 121.5654177
+        },
+        "Name": "Taipei"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Changhua City, Changhua County, Taiwan 500",
+        "GPS Coordinates": {
+          "lat": 24.0716583,
+          "lng": 120.5624474
+        },
+        "Name": "Changhua City"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 23,
+      "Location": {
+        "Full address": "Bangkok, Thailand",
+        "GPS Coordinates": {
+          "lat": 13.7563309,
+          "lng": 100.5017651
+        },
+        "Name": "Bangkok"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand",
+        "GPS Coordinates": {
+          "lat": 18.7952876,
+          "lng": 98.96200019999999
+        },
+        "Name": "Chiang Mai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Hua Hin, Hua Hin District, Prachuap Khiri Khan 77110, Thailand",
+        "GPS Coordinates": {
+          "lat": 12.5683747,
+          "lng": 99.9576888
+        },
+        "Name": "Hua Hin"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 5,
+      "Location": {
+        "Full address": "Dubai - United Arab Emirates",
+        "GPS Coordinates": {
+          "lat": 25.2048493,
+          "lng": 55.2707828
+        },
+        "Name": "Dubai"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Newcastle upon Tyne, UK",
+        "GPS Coordinates": {
+          "lat": 54.978252,
+          "lng": -1.61778
+        },
+        "Name": "Newcastle upon Tyne"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Chicago, IL, USA",
+        "GPS Coordinates": {
+          "lat": 41.8781136,
+          "lng": -87.6297982
+        },
+        "Name": "Chicago"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Seattle, WA, USA",
+        "GPS Coordinates": {
+          "lat": 47.6062095,
+          "lng": -122.3320708
+        },
+        "Name": "Seattle"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Orange County, CA, USA",
+        "GPS Coordinates": {
+          "lat": 33.7174708,
+          "lng": -117.8311428
+        },
+        "Name": "Orange County"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Los Angeles, CA, USA",
+        "GPS Coordinates": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "Name": "Los Angeles"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Tempe, AZ, USA",
+        "GPS Coordinates": {
+          "lat": 33.4255104,
+          "lng": -111.9400054
+        },
+        "Name": "Tempe"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Santa Clara, CA, USA",
+        "GPS Coordinates": {
+          "lat": 37.3541079,
+          "lng": -121.9552356
+        },
+        "Name": "Santa Clara"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "San Benito, CA 95043, USA",
+        "GPS Coordinates": {
+          "lat": 36.5097219,
+          "lng": -121.080833
+        },
+        "Name": "San Benito"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Boston, MA, USA",
+        "GPS Coordinates": {
+          "lat": 42.3600825,
+          "lng": -71.0588801
+        },
+        "Name": "Boston"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "Ho Chi Minh City, Vietnam",
+        "GPS Coordinates": {
+          "lat": 10.8230989,
+          "lng": 106.6296638
+        },
+        "Name": "Ho Chi Minh City"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Bình Xuyên District, Vinh Phuc Province, Vietnam",
+        "GPS Coordinates": {
+          "lat": 21.313857,
+          "lng": 105.6764461
+        },
+        "Name": "Bình Xuyên District"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Neder-Over-Heembeek, 1120 Brussels, Belgium",
+        "GPS Coordinates": {
+          "lat": 50.89622,
+          "lng": 4.37188
+        },
+        "Name": "Neder-Over-Heembeek"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 3,
+      "Location": {
+        "Full address": "83278 Traunstein, Germany",
+        "GPS Coordinates": {
+          "lat": 47.8677574,
+          "lng": 12.6384037
+        },
+        "Name": "Traunstein"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Chiba, Japan",
+        "GPS Coordinates": {
+          "lat": 35.6074041,
+          "lng": 140.1065366
+        },
+        "Name": "Chiba"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Nagoya, Aichi, Japan",
+        "GPS Coordinates": {
+          "lat": 35.18145060000001,
+          "lng": 136.9065571
+        },
+        "Name": "Nagoya"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Gwangju, South Korea",
+        "GPS Coordinates": {
+          "lat": 35.1595454,
+          "lng": 126.8526012
+        },
+        "Name": "Gwangju"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "London, ON, Canada",
+        "GPS Coordinates": {
+          "lat": 42.9849233,
+          "lng": -81.2452768
+        },
+        "Name": "London"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 2,
+      "Location": {
+        "Full address": "Hanoi, Hoàn Kiếm, Hanoi, Vietnam",
+        "GPS Coordinates": {
+          "lat": 21.0277644,
+          "lng": 105.8341598
+        },
+        "Name": "Hanoi"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Tam Đảo District, Vinh Phuc Province, Vietnam",
+        "GPS Coordinates": {
+          "lat": 21.4747064,
+          "lng": 105.5708865
+        },
+        "Name": "Tam Đảo District"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Thanh Hóa, Thanh Hoa, Vietnam",
+        "GPS Coordinates": {
+          "lat": 19.806692,
+          "lng": 105.7851816
+        },
+        "Name": "Thanh Hóa"
+      },
+      "Recovered": 0
+    },
+    {
+      "Dead": 0,
+      "Infected": 1,
+      "Location": {
+        "Full address": "Vạn Ninh District, Khanh Hoa Province, Vietnam",
+        "GPS Coordinates": {
+          "lat": 12.7243439,
+          "lng": 109.2626992
+        },
+        "Name": "Vạn Ninh District"
       },
       "Recovered": 0
     }
